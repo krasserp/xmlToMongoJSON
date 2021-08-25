@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "PS::Make JSON",
+        "command": "make_json"
+    },
+]
