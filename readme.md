@@ -1,4 +1,4 @@
-###Set up:
+### Set up:
 
 1.) nagivate to your sublimetext `Packages` folder
 On debian based systems this is `/home/userName/.config/sublime-text-3/Packages/`
